@@ -1,6 +1,6 @@
 #chess_web 
 
-!([https://github.com/user/repo/assets/12345678/image.png](https://github.com/farazabir/chess_web/blob/main/asset/image.png))
+![Image](https://github.com/user-attachments/assets/9486ba09-c269-4090-a66d-c95b54eed47a)
 
 ## To run 
 ### just clone the repo and run run the command
